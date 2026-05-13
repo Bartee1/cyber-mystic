@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright:Tobias Bartee
+  copyright: Tobias Bartee
   location: Location
   social: Around the Web
   credits: Credits
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Racine, WI
+  - line: Racine, Wisconsin
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
